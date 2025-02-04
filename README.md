@@ -141,7 +141,7 @@ Visit `https://yourwebsite.com/test-spam.php` to trigger it instantly.
 ## Contributing
 Have suggestions or improvements? Feel free to open an issue or submit a pull request.
 
-GitHub Repository: **[yourrepo](https://github.com/glourenco/spam-detector-plugin)**
+GitHub Repository: **[Spam Detector Plugin](https://github.com/glourenco/spam-detector-plugin)**
 
 ---
 
